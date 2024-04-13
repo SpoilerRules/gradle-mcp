@@ -2,5 +2,5 @@
 /target/
 /.idea/
 /build/
-/
+/.gradle/
 /runConfigurations/
